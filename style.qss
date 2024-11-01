@@ -1,0 +1,31 @@
+QPushButton {
+    background-color: #144552;
+    color: #ffffff;
+    border-radius: 12px;
+    padding: 10px;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+QPushButton:hover {
+    background-color: #1b96b5;
+    color: #ffffff;
+}
+
+#new_game_button {
+    background-color: #7d1bb5;
+    color: #ffffff;
+    border-radius: 12px;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#ai_text_label {
+    color: #000000;
+    background-color: #f0f0f0;
+    border-radius: 12px;
+    border: 2px solid #000000;
+    font-size: 20px;
+    font-weight: bold;
+}
